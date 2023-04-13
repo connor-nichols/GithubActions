@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-
+//comment simply to add another commit
 namespace GithubActionsLab
 {
     [TestFixture]
